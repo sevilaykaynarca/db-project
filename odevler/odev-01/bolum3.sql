@@ -1,0 +1,1 @@
+print("veri tabanı sistemleri")
